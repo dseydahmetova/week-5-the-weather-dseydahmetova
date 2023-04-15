@@ -3,7 +3,7 @@
 Now we can start using APIs to get information from others applications. Lets create a Weather app [like this one](https://mariandreamv.github.io/weatherapp.github.io/).
 
 this project consist on create an app that takes the name of any city via input and display the current weather and the weather for the next 7 days.
-
+Live Demo: https://venerable-pony-53e805.netlify.app
 The main point of this project is learn how to get info from the API and handle multiple promises.
 
 You will get the input value (city name) from the element with the 'id=city' in the index.html file.
